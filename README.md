@@ -13,3 +13,7 @@
 
 - Add a client application for verification of the backend.
 - Add more routes to create a weather api
+
+---
+
+Project inspired from: [How to Connect MongoDB to Node.js Using Mongoose | Engineering Education (EngEd) Program | Section](https://www.section.io/engineering-education/nodejs-mongoosejs-mongodb/)
